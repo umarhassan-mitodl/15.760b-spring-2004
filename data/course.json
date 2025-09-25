@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Supply Chain Management"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "legacy_uid": "aa492655-a3f8-e4d0-95dd-fbab92d9db2c",
+  "instructors": {
+    "content": [
+      "946d219b-757b-67d1-764f-59a6a6530c12"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e50ed883-e56f-aacb-6e2b-786972795623",
+    "website": "15-760b-introduction-to-operations-management-spring-2004"
+  },
+  "course_title": "Introduction to Operations Management",
+  "course_description": "This half-term course introduces students to problems and analysis related to the design, planning, control, and improvement of manufacturing and service operations. Class sessions involve explaining concepts, working examples, and discussing cases. A wide range of topics are covered, including: process analysis, quality management, supply chain design, procurement, and product development. Toward the end of the course, students work in teams to manage a virtual factory in a web-based simulation exercise.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.760B",
+  "course_image_thumbnail": {
+    "content": "ab284666-a6c7-1a78-017c-82e9b3f6d326",
+    "website": "15-760b-introduction-to-operations-management-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "4d8c6e2b-e222-4d91-a614-dedddfdb7249",
+  "site_short_id": "15.760b-spring-2004",
+  "site_url_path": "courses/15-760b-introduction-to-operations-management-spring-2004",
+  "title": "Course Metadata"
+}
