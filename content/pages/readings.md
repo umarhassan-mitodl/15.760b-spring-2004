@@ -124,7 +124,7 @@ Inventory
 {{< tdclose >}}{{< tdopen >}}
 Lecture
 {{< tdclose >}}{{< tdopen >}}
-Perman, Stacy. "Automate or Die." *Business 2.0*, July 2001. Article available at the {{% resource_link "3527235f-d8ea-490c-b382-cbae6d054649" "*Business 2.0*" %}} magazine Web site.
+Perman, Stacy. "Automate or Die." *Business 2.0*, July 2001. Article available at the [*Business 2.0*](http://www.business2.com/) magazine Web site.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
