@@ -40,7 +40,7 @@ Kumar, Sunil, and Samuel C. Wood. "Littlefield Technologies: Overview." Stanford
 
 ———. "Managing Capacity and Lead-time at Littlefield Technologies." Stanford University Graduate School of Business. (Only available to students of the class.)
 
-For more information about these two documents and the related simulation, see the [Littlefield Technology simulation](http://littlefieldsimulation2.blogspot.in/2011/07/littlefield-technologies-simulation.html) Web site.
+For more information about these two documents and the related simulation, see the {{% resource_link "77c5717d-c36d-49c5-a74f-78c60a62fd1d" "Littlefield Technology simulation" %}} Web site.
 
 ### Schedule
 
